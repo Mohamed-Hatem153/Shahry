@@ -9,6 +9,7 @@ This is a sample Reviews page containing a list of reviews and their comments on
 - Implement "Add review" functionality
 - Implement "Add a comment on review" functionality
 - Thumbs-up/thumbs-down depends on stars. Thumbs-up is 4 stars and up.
+
 This application is built using the following technologies:
 
 1. [React.js]
