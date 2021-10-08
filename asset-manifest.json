@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shahry/static/css/main.b0ca4f67.chunk.css",
+    "main.js": "/Shahry/static/js/main.0c52e2cd.chunk.js",
+    "main.js.map": "/Shahry/static/js/main.0c52e2cd.chunk.js.map",
+    "runtime-main.js": "/Shahry/static/js/runtime-main.3aaa71dc.js",
+    "runtime-main.js.map": "/Shahry/static/js/runtime-main.3aaa71dc.js.map",
+    "static/js/2.14b9aee1.chunk.js": "/Shahry/static/js/2.14b9aee1.chunk.js",
+    "static/js/2.14b9aee1.chunk.js.map": "/Shahry/static/js/2.14b9aee1.chunk.js.map",
+    "static/js/3.85fedfa1.chunk.js": "/Shahry/static/js/3.85fedfa1.chunk.js",
+    "static/js/3.85fedfa1.chunk.js.map": "/Shahry/static/js/3.85fedfa1.chunk.js.map",
+    "index.html": "/Shahry/index.html",
+    "static/css/main.b0ca4f67.chunk.css.map": "/Shahry/static/css/main.b0ca4f67.chunk.css.map",
+    "static/js/2.14b9aee1.chunk.js.LICENSE.txt": "/Shahry/static/js/2.14b9aee1.chunk.js.LICENSE.txt",
+    "static/media/Header.module.css": "/Shahry/static/media/bg.ec4ca5e9.jpg",
+    "static/media/logo.5c5843ef.svg": "/Shahry/static/media/logo.5c5843ef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aaa71dc.js",
+    "static/js/2.14b9aee1.chunk.js",
+    "static/css/main.b0ca4f67.chunk.css",
+    "static/js/main.0c52e2cd.chunk.js"
+  ]
+}
